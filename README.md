@@ -17,6 +17,12 @@ ____
 ## Results
 
 ### 2x2 Pocket Rubiks Cube
+<p float="left">
+  <img src="images/222_SR.png" width="399" />
+  <img src="images/222_AR.png" width="399" /> 
+  <img src="images/222_AM.png" width="399" />
+  <img src="images/222.PNG" />
+</p>
 
 | Size of validation set | Average reward | Success rate | Average number of moves | Method | Training Size |
 |------------------------|----------------|--------------|-------------------------|--------|---------------|
@@ -37,6 +43,13 @@ ____
 | 10000                  | 85.2556        | 99.95        | 15.6939                 | ortega | 10000000      |
 
 ### Pyraminx
+<p float="left">
+  <img src="images/pyram_SR.png" width="399" />
+  <img src="images/pyram_AR.png" width="399" /> 
+  <img src="images/pyram_AM.png" width="399" />
+  <img src="images/pyram.PNG" />
+</p>
+
 | Size of validation set | Average reward | Success rate | Average number of moves | Method | Training Size |
 |------------------------|----------------|--------------|-------------------------|--------|---------------|
 | 10000                  | -221.2995      | 8.54         | 229.9249                | lbl    | 500000        |
@@ -57,6 +70,13 @@ ____
 | 10000                  | 89.3179        | 100          | 11.6821                 | none   | 2500000       |
 
 ### Skewb
+<p float="left">
+  <img src="images/skewb_SR.png" width="399" />
+  <img src="images/skewb_AR.png" width="399" /> 
+  <img src="images/skewb_AM.png" width="399" />
+  <img src="images/skewb.PNG" />
+</p>
+
 | Size of validation set | Average reward | Success rate | Average number of moves | Method | Training Size |
 |------------------------|----------------|--------------|-------------------------|--------|---------------|
 | 10000                  | -72.3876       | 54.91        | 127.8467                | none   | 2000000       |
