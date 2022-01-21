@@ -6,6 +6,19 @@ ____
 ![GitHub](https://img.shields.io/github/license/DoubleGremlin181/RubiksCubeRL)
 ![OS](https://img.shields.io/badge/platform-linux%20%7C%20windows-lightgrey)
 
+
+## Citation
+```
+@article{hukmani2021solving,
+  title={Solving Twisty Puzzles Using Parallel Q-learning.},
+  author={Hukmani, Kavish and Kolekar, Sucheta and Vobugari, Sreekumar},
+  journal={Engineering Letters},
+  volume={29},
+  number={4},
+  year={2021}
+}
+```
+
 ## Instructions
 * Install requirements
 * Create a Q-Table by running `pql.py` on Linux or `pql-windows.py` on Windows.
